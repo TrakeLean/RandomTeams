@@ -1,0 +1,19 @@
+{
+  "name": "randomteams",
+  "version": "1.0.0",
+  "description": "Random team generator for sports, gaming, and group activities",
+  "scripts": {
+    "build": "echo 'No build needed - static HTML site'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrakeLean/RandomTeams"
+  },
+  "keywords": [
+    "random-team-generator",
+    "team-randomizer",
+    "group-maker"
+  ],
+  "author": "RandomTeams.net",
+  "license": "MIT"
+}
