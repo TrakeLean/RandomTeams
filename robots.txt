@@ -1,0 +1,9 @@
+# robots.txt for RandomTeams.net
+
+User-agent: *
+Allow: /
+Disallow: /.claude/
+Disallow: /skills/
+
+# Sitemap
+Sitemap: https://randomteams.net/sitemap.xml
