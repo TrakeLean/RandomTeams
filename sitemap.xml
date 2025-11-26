@@ -12,12 +12,4 @@
         <priority>1.0</priority>
     </url>
 
-    <!-- Team Creator Tool Page -->
-    <url>
-        <loc>https://randomteams.net/team-creator.html</loc>
-        <lastmod>2025-01-26</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
 </urlset>
